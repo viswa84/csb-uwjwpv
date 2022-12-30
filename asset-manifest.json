@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://viswa84.github.io/csb-uwjwpv/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://viswa84.github.io/csb-uwjwpv/static/js/main.01948375.chunk.js",
+    "main.js.map": "https://viswa84.github.io/csb-uwjwpv/static/js/main.01948375.chunk.js.map",
+    "runtime-main.js": "https://viswa84.github.io/csb-uwjwpv/static/js/runtime-main.9fbb45b9.js",
+    "runtime-main.js.map": "https://viswa84.github.io/csb-uwjwpv/static/js/runtime-main.9fbb45b9.js.map",
+    "static/js/2.f65ff05f.chunk.js": "https://viswa84.github.io/csb-uwjwpv/static/js/2.f65ff05f.chunk.js",
+    "static/js/2.f65ff05f.chunk.js.map": "https://viswa84.github.io/csb-uwjwpv/static/js/2.f65ff05f.chunk.js.map",
+    "index.html": "https://viswa84.github.io/csb-uwjwpv/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://viswa84.github.io/csb-uwjwpv/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f65ff05f.chunk.js.LICENSE.txt": "https://viswa84.github.io/csb-uwjwpv/static/js/2.f65ff05f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fbb45b9.js",
+    "static/js/2.f65ff05f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.01948375.chunk.js"
+  ]
+}
